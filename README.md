@@ -67,6 +67,9 @@ Follow these instructions to get a copy of the project up and running on your lo
   - Drivers who go to bars more than once a month, had passengers other than kids, and had occupations other than farming, fishing, or forestry: [insert percentage]
 
 
+Refer the `PDF Version the Notebook.pdf` file for more details on the code, plots and analysis.
+
+
 ## Contributing
 
 None
