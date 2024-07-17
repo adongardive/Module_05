@@ -1,6 +1,6 @@
 # Module 05 Notebook
 
-This repository contains the Jupyter notebook for Module 05, where we analyze the acceptance rates of different types of coupons based on various demographic and behavioral factors.
+This repository contains the Jupyter notebook for Amit Dongardive's Module 05 submission, where we analyze the acceptance rates of different types of coupons based on various demographic and behavioral factors.
 
 ## Overview
 
