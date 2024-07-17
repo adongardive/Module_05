@@ -66,13 +66,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 - **Acceptance Rates by Additional Criteria**:
   - Drivers who go to bars more than once a month, had passengers other than kids, and had occupations other than farming, fishing, or forestry: [insert percentage]
 
-### Coffee House Coupons Analysis
-
-- **Overall Acceptance Rate**: [insert percentage]
-- **Acceptance Rates by Age**: [insert detailed data]
-- **Acceptance Rates by Marital Status**: [insert detailed data]
-- **Acceptance Rates by Income Group**: [insert detailed data]
-- **Acceptance Rates by Occupation**: [insert detailed data]
 
 ## Contributing
 
